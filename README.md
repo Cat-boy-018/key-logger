@@ -4,7 +4,10 @@
 - logging (module) <br>
 - pynput  (module)
 <br>
-install requirements:
+
+install requirements: <br>
 `pip install -r requirements.txt`
+
 <br>
+
 captured data -> capture.txt (in current directory)

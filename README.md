@@ -5,8 +5,6 @@
 - pynput  (module)
 <br>
 install requirements:
-```js
-pip install -r requirements.txt
-```
+`pip install -r requirements.txt`
 <br>
 captured data -> capture.txt (in current directory)
